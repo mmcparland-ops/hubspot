@@ -1,0 +1,13 @@
+{
+  "name": "USSSA 2026 - Joe - Show Outreach",
+  "enrollment_list_id": "3255",
+  "timezone": "America/New_York",
+  "unenroll_on_meeting_booked": true,
+  "steps": [
+    {"email": "223852357897"},
+    {"delay_until": "2026-10-13", "hour": 9, "minute": 0},
+    {"email": "223847649829"},
+    {"delay_until": "2026-10-16", "hour": 9, "minute": 0},
+    {"email": "223847874307"}
+  ]
+}
